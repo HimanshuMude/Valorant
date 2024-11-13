@@ -1,0 +1,12 @@
+Antecedent,Consequent,Confidence
+Pulse,Oil,0.7999999999999999
+Oil,Pulse,1.0
+Rice,Pulse,1.0
+Pulse,Rice,0.7999999999999999
+Rice,Oil,0.75
+Oil,Rice,0.75
+Milk,Pulse,0.75
+Pulse,Milk,0.6
+"Rice, Pulse",Oil,0.75
+"Rice, Oil",Pulse,1.0
+"Pulse, Oil",Rice,0.75

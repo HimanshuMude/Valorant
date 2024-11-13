@@ -1,0 +1,10 @@
+Itemset,Support
+Rice,0.6666666666666666
+Pulse,0.8333333333333334
+Oil,0.6666666666666666
+Milk,0.6666666666666666
+"Oil, Pulse",0.6666666666666666
+"Rice, Pulse",0.6666666666666666
+"Rice, Oil",0.5
+"Pulse, Milk",0.5
+"Oil, Rice, Pulse",0.5
